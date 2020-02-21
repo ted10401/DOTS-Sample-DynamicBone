@@ -868,15 +868,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9ac8d30c6a0d9642a11e5be4c440740, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Root: {fileID: 8691783141029761485}
-  m_UpdateRate: 60
-  m_Damping: 0.2
-  m_Elasticity: 0.05
-  m_Stiffness: 0.7
-  m_Inert: 0.5
-  m_Radius: 0.05
-  m_Gravity: {x: 0, y: 0, z: 0}
-  m_Force: {x: 0, y: 0, z: 0}
+  root: {fileID: 8691783141029761485}
+  updateRate: 60
+  damping: 0.2
+  elasticity: 0.05
+  stiffness: 0.7
+  inert: 0.5
+  radius: 0.05
 --- !u!114 &7454913950287387814
 MonoBehaviour:
   m_ObjectHideFlags: 0
